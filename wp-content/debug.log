@@ -130,3 +130,4 @@
 [15-Dec-2025 17:48:40 UTC]   Automatic plugin updates starting...
 [15-Dec-2025 17:48:40 UTC]   Automatic plugin updates complete.
 [15-Dec-2025 17:48:41 UTC] Automatic updates complete.
+[16-Dec-2025 05:18:09 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\notout2\wp-includes\class-wpdb.php on line 1994
